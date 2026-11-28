@@ -1,6 +1,6 @@
 # ELEC 3 - Node.js
 
-Name: Adrian Manangan | Course: ELEC 3 - Node.js
+Name: Adrian Romeo D. Manangan | Course: ELEC 3 - Node.js
 
 ## Activities
 
